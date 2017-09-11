@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NBSpriteImage_Example' do
+  pod 'NBSpriteImage', :path => '../'
+
+  target 'NBSpriteImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
