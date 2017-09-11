@@ -1,0 +1,16 @@
+PODS:
+  - NBSpriteImage (0.1)
+
+DEPENDENCIES:
+  - NBSpriteImage (from `../`)
+
+EXTERNAL SOURCES:
+  NBSpriteImage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NBSpriteImage: a797b0586f021623f48c59978468f7d015a27657
+
+PODFILE CHECKSUM: 46e578c052dcfb9d42c2cb5175929e00e02cf879
+
+COCOAPODS: 1.3.1

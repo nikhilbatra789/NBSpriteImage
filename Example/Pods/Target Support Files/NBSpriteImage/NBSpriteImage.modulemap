@@ -1,0 +1,6 @@
+framework module NBSpriteImage {
+  umbrella header "NBSpriteImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_NBSpriteImage_Tests {
+  umbrella header "Pods-NBSpriteImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
