@@ -20,7 +20,7 @@ Add the NBSpriteImage pod into your project and run `pod install`
 pod 'NBSpriteImage'
 ```
 ### Manual Install
-Download NBGaugeVIew and import `NBSpriteImage.swift` inside your xcode project.
+Download NBSpriteImage and import `NBSpriteImage.swift` inside your xcode project.
 
 ## Sample App
 To start using NBSpriteImage you can build the provided example project
