@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NBSpriteImage'
   s.version          = '0.1'
-  s.summary          = 'A short description of NBSpriteImage.'
+  s.summary          = 'A perfect way to animate sprte images from sprite sheet'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'NBSpriteImage is a small library to create and animate spriteImages from sprite sheet'
 
   s.homepage         = 'https://github.com/nikhilbatra789/NBSpriteImage'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
